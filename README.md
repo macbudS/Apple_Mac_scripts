@@ -2,5 +2,6 @@
 
 These are sample script and free to use. Tested in my environment and uploaded here, you are free to modify the required script and test it before move to production.
 
+Details of the script is mentioned README in each section.
 
 Contact me at @Shri in macadmins slack or reachmacbud@gmail.com (macbudshri.wordpress.com)
