@@ -1,6 +1,6 @@
 How to set Screensaver for macOS Sonoma
 
-***** Thanks to itjimbo (https://github.com/itjimbo) and Howie Isaacks (http://www.linkedin.com/in/howieisaacks)
+** Thanks to itjimbo (https://github.com/itjimbo) and Howie Isaacks (http://www.linkedin.com/in/howieisaacks) **
 1) Create a folder on your test Mac to place the custom screensaver image(ex:/Library/Screen Savers/Customname)
 
 2) Set screensaver manually from system settings on the test Mac.
