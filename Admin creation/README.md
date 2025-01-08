@@ -5,3 +5,6 @@ Script to add local admin account to FV2 (Enable FV2 for local admin account), u
 
 #### Script: local_hidden_admin_account.sh
 Script to create hidden local admin account on macOS silently.
+
+#### Script: MigrateUserDomainAcctToLocalAcct.sh
+Script to convert mobile account to local account(**kindly test it locally**).
